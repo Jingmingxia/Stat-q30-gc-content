@@ -4,7 +4,7 @@ The script is to stat the q20, q30, gc_content and output fasta file
 
 Usage: python $0 input_fq output_fa
 
-output(standout):
+output(stdout):
 
 Base	Number	Percentage
 
