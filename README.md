@@ -20,4 +20,3 @@ Total_reads:3
 Quality_type	Bases	Percentage
 q20:22375	84.0
 q30:19669	73.84
-
