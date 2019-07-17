@@ -1,6 +1,6 @@
 # Stat-q30-gc-content
 
-The script is to stat the q20, q30, gc_content and output fasta file 
+The script is to stat the q20, q30, gc_content and output fasta file from the fastq file
 
 Usage: python $0 input_fq output_fa
 
